@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class ABC {
     public static void main(String[] args){
       Scanner input = new Scanner(System.in);
-      String[] nom={"ARSENE","baltimore","claire","dom","ephaistos","ferran","garp","hermes","iron","jon","kall","lamine","map","naruto","oppote","patrick","q","ren","seiko","takakura","ulquira","vald","waly","xen","yelena","zed"};
+      String[] nom={"arsene","baltimore","claire","dom","ephaistos","ferran","garp","hermes","iron","jon","kall","lamine","map","naruto","oppote","patrick","q","ren","seiko","takakura","ulquira","vald","waly","xen","yelena","zed"};
         System.out.println("entrer");
       String m=input.next();
       for (String l:nom){
